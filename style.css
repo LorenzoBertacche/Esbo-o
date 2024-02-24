@@ -9,6 +9,10 @@
     justify-content: space-around;
 }
 
+.topo-tituloprincipal {
+    margin: 24px;
+}
+
 .topo-elenco-lista {
     display: grid;
     margin: 16px 0;
