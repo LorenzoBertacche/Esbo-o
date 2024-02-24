@@ -4,3 +4,7 @@
     display: flex;
     justify-content: space-around;
 }
+
+.topo-elenco-lista {
+    margin: 16px 0;
+}
