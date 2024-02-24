@@ -6,5 +6,6 @@
 }
 
 .topo-elenco-lista {
+    display: inline;
     margin: 16px 0;
 }
