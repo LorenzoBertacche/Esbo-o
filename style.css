@@ -6,6 +6,6 @@
 }
 
 .topo-elenco-lista {
-    display: list-item;
+    display:grid;
     margin: 16px 0;
 }
