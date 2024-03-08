@@ -27,7 +27,7 @@
     background-color: #54494D;
     color: yellow;
     display: flex;
-    justify-self: left;
+    justify-content: left;
 }
 .relojoaria-div-conteudo {
     width: 25%;
