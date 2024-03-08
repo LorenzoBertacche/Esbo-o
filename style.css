@@ -26,6 +26,7 @@
 .relojoaria {
     background-color: #54494D;
     color: yellow;
+    display: flex;
     justify-content: left;
 }
 
