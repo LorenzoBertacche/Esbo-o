@@ -26,10 +26,15 @@
 .relojoaria {
     background-color: #54494D;
     color: yellow;
-    display: ;
-    justify-content: space-around;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .relojoaria-div-conteudo {
     width: 35%;
+}
+.relojoaria-texto-um{
+
 }
