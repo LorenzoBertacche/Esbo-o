@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 .topo {
     background-color: #B1A4B7;
     color: #603846;
@@ -35,10 +36,12 @@
 .relojoaria-div-conteudo {
     width: 35%;
 }
+
 .relojoaria-texto-um{
     justify-content: center;
     padding: 10px 24px ;
 }
+
 .relojoaria-texto-dois{
     justify-content: center;
     padding: 10px 24px ;
