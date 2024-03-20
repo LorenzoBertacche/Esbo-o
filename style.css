@@ -51,3 +51,7 @@
     background-size: cover;
     width: 15%;
 }
+
+.diamonds-image {
+    background-size: contain;
+}
