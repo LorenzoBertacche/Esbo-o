@@ -54,5 +54,6 @@
 
 .diamonds-image {
     background-size: cover;
-    
+    padding: 0;
+    margin: 0;
 }
