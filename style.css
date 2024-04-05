@@ -60,9 +60,9 @@ height: 300px;
 .Btn {
     width: 45px;
     height: 45px;
-    display: grid;
-    align-items: right;
-    justify-content: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border: none;
     background-color: transparent;
     position: relative;
