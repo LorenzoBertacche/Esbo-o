@@ -65,7 +65,7 @@ height: 300px;
     justify-content: right;
     border: none;
     background-color: transparent;
-    position: relative;
+    position: right;
     /* overflow: hidden; */
     border-radius: 7px;
     cursor: pointer;
