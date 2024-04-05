@@ -70,6 +70,7 @@ height: 300px;
     border-radius: 7px;
     cursor: pointer;
     transition: all 0.3s;
+    margin: 16px 0;
   }
   
   .svgContainer {
