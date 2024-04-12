@@ -58,6 +58,6 @@ height: 300px;
 }
 
 .email-icon {
-    display: inline;
+    display: grid;
     width: 24px;
 }
