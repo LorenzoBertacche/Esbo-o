@@ -55,8 +55,6 @@
 .diamonds-image {
 width: 100%;
 height: 300px;
-margin: 0;
-padding: 0;
 }
 
 .email-icon {
@@ -70,6 +68,4 @@ padding: 0;
     display: flex;
     justify-content: space-around;
     height: 80px;
-    margin: 0;
-    padding: 0;
 }
