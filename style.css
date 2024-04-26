@@ -68,4 +68,5 @@ height: 300px;
     display: flex;
     justify-content: space-around;
     height: 60px;
+    margin: 0;
 }
