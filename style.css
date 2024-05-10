@@ -55,7 +55,6 @@
 .diamonds-image {
 width: 100%;
 height: 300px;
-background-size: contain;
 }
 
 .email-icon {
@@ -68,6 +67,5 @@ background-size: contain;
     color: #E41717;
     height: 80px;
     justify-content: center;
-    background-size: contain;
 }
 
